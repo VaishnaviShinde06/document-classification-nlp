@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1 (macro),5-fold CV F1
+Linear SVM,0.9765,0.9769,0.9746,0.9756,0.9767
+Naive Bayes,0.9698,0.9738,0.9666,0.9695,0.9625
+Logistic Regression,0.9698,0.9703,0.9673,0.9685,0.9696
+Random Forest,0.9463,0.9528,0.941,0.9452,0.9511
